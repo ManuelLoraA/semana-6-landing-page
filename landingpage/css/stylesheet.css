@@ -1,0 +1,52 @@
+/*NAVBAR*/
+.bg-light {
+    background-color: #000000!important;
+}
+/*BODY*/
+
+.logo {
+	width: 175px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.app {
+	width: 500px;
+    margin-top: 150px;
+}
+
+.bodytitle{
+	margin-top: 190px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+    font-size: 45px;
+}
+
+.bodytext{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+    font-size: 25px;
+}
+
+.down {
+	text-align: center;
+}
+
+.down img{
+	width: 200px;
+	padding: 5px;
+	margin-top: 20px; 
+}
+
+.footer{
+	text-align: center;
+	margin-top: 60px;
+}
+
+.footer p {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	font-size: 12px;
+}
